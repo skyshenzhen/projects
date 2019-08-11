@@ -1,0 +1,34 @@
+<swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-dots="true">
+  <block wx:for="{{imgUrls}}" wx:key="">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="355" height="150" />
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class='model'>
+  <view class="model_content4" bindtap='toAbout'>
+    <image class='image_model_style' style="width: 32px; height: 32px;" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.png?sign=e21a79a9dabe6ad454549b33677c3ce1&t=1563894983"></image>
+    <text class='text_model_style'>关于我们</text>
+  </view>
+
+  <view class="model_content1" bindtap="toCase">
+    <image class='image_model_style' style="width: 32px; height: 32px;" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.png?sign=b79c42140f890b224fb439d6df834cf9&t=1563895004"></image>
+    <text class='text_model_style'>案例分析</text>
+  </view>
+
+  <view class="model_content3" bindtap='toBUsiness'>
+    <image class='image_model_style' style="width: 32px; height: 32px;" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/%E5%95%86%E4%B8%9A%E5%90%88%E4%BD%9C.png?sign=a43fdacf48f3ace1ed4058cc3ddc240e&t=1563895021"></image>
+    <text class='text_model_style'>商业合作</text>
+  </view>
+
+  <view class="model_content2" bindtap='toRequirement'>
+    <image class='image_model_style' style="width: 32px; height: 32px;" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/%E6%8B%9B%E8%81%98%E7%AE%A1%E7%90%86.png?sign=9739365773d68434351f8a8fcb9b09be&t=1563895036"></image>
+    <text class='text_model_style'>招贤纳士</text>
+  </view>
+</view>
+
+
+<view class='sec-image'>
+  <image src='https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/foot.jpg?sign=0e242e2cc3dbcae24035fafa0baecd38&t=1564064097'></image>
+</view>

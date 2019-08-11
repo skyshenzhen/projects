@@ -1,0 +1,17 @@
+<view class='bg'>
+<image style="width: 100%; height: 250px; background-color: #eeeeee;" src='https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/bkImg3.jpg?sign=12773547686fa17aa9fa21373c4e13b1&t=1564068810'></image>
+</view>
+<view class='block'>
+  <text class='block-desc' decode="{{true}}">
+  软硬件研发/AI科技/互联网/电子商务
+  一、高端岗位统筹：
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CXO级别：CEO、CTO、架构师、COO、CFO、IT运维总监、HRD、HRBP、OD专家、招聘专家、产品经理/总监、运营经理/总监、市场经理/总监、销售经理/总监、质量总监等。
+  二、技术类岗位细分：
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.后端（Java、C++、PHP、搜索算法、C、C#、全栈工程师、.NET、Python等）；
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.大数据（Hadoop、数据分析、DBA、数据挖掘）；
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.移动端（IOS/Android/H5） ；
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.前端（H5、Web前端、Javascript）；
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.硬件（硬件、嵌入式、电气自动化等）；
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.AI（图像识别、人脸识别、语音识别、Slam、机器人/无人机导航路径规划、搜索推荐、ADAS算法）。</text>
+</view>
+

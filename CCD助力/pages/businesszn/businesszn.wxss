@@ -1,0 +1,40 @@
+
+page {
+ 
+  background: #e6e6fa;
+ 
+  background-image: url('https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/bkImg4.jpg?sign=488f5a0a740ca4054c33b83365d51fb5&t=1564064914');
+ 
+  background-size: 100% 100%;
+ 
+}
+ 
+
+ 
+.banner {
+  position: absolute;
+  width: 100%;
+  height: 490rpx;
+}
+
+.textstyle {
+  margin-top: 10rpx;
+  font: bold;
+  font-family: FangSong;
+  font-size: 35rpx;
+  color: blue;
+}
+
+.textstyle1 {
+  display: block;
+  color: gray;
+  line-height: 1.6;
+  font-size: 28rpx;
+  padding: 0 30rpx 30rpx;
+  margin-top: 45rpx;
+}
+
+.page-section-gap {
+  box-sizing: border-box;
+  padding: 0 30rpx;
+}

@@ -1,0 +1,91 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.2.0",
+	"appid": "wxe06abfec095c485d",
+	"projectname": "%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%99%BB%E5%BD%95%E6%AC%A2%E8%BF%8E%E9%A1%B5%E9%9D%A2",
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 6,
+			"list": [
+				{
+					"id": -1,
+					"name": "中文首页",
+					"pathName": "pages/indexzn/indexzn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "案例分析中文",
+					"pathName": "pages/casezn/casezn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "关于我们中文",
+					"pathName": "pages/aboutzn/aboutzn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "招聘管理中文",
+					"pathName": "pages/jobzn/jobzn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商业合作中文",
+					"pathName": "pages/businesszn/businesszn",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "企业客户",
+					"pathName": "pages/customer/customer",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "开始界面",
+					"pathName": "pages/start/start",
+					"scene": null
+				}
+			]
+		}
+	}
+}

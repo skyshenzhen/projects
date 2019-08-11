@@ -1,0 +1,20 @@
+<!--start.wxml-->
+<view class="container">
+  <view class="remind-box" wx:if="{{remind}}">
+    <image class="remind-img" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/loading.gif?sign=717736fc6dbac1cdd24459a3cdc12054&t=1563894332"></image>
+  </view>
+  <block wx:else>
+    <image class="title" src="https://7261-raatxyun-0716-1259697781.tcb.qcloud.la/start.png?sign=1c9a0ae8e80226f3949e9eb0146c5e71&t=1564270620"></image>
+    <view class="content">
+      <view class="hd" style="transform:rotateZ({{angle}}deg);"></view>
+
+
+      <view class="bd">
+        <view class="confirm-btn-zn" bindtap='goToIndexZn'>
+          <text>欢迎进入</text>
+        </view>
+      </view>
+
+    </view>
+  </block>
+</view>

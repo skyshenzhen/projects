@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/indexzn/indexzn",
+    "pages/casezn/casezn",
+    "pages/jobzn/jobzn",
+    "pages/businesszn/businesszn",
+    "pages/aboutzn/aboutzn",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "CDD助力",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "cloud": true
+}

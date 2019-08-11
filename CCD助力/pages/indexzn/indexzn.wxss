@@ -1,0 +1,89 @@
+swiper {
+  margin-top: 30rpx;
+  width: 100%;
+  height: 500rpx;
+}
+
+swiper image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.isen-item-style {
+  float: right;
+  display: block;
+  margin-bottom: 20rpx;
+}
+
+.isen-style::after {
+  clear: both;
+}
+
+.isen-text-type {
+  font-size: 30rpx;
+  color: green;
+}
+
+.first-image image {
+  width: 100%;
+}
+
+.model {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20rpx;
+}
+
+.model_content1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 50rpx;
+}
+
+.model_content2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 50rpx;
+}
+
+.model_content3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 90rpx;
+}
+
+.model_content4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-left: 40rpx;
+}
+
+.text_model_style {
+  position: absolute;
+  margin-top: 50rpx;
+  font-family: SimHei;
+  font-weight:bold;
+  font-size: 17rpx;
+  color: rgb(90, 90, 202);
+  display: flex;
+}
+
+.sec-image image {
+  margin-top: 60rpx;
+  width: 100%;
+  height: 100%；;
+}

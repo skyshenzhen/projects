@@ -1,0 +1,8 @@
+
+.block-desc{
+  display: block;
+  color: gray;
+  line-height: 1.6;
+  font-size: 27rpx;
+  padding: 0 30rpx 30rpx;
+}
